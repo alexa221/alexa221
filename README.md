@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexandra
+- 👀 I’m interested in music, languages and coding
+- 🌱 I’m currently learning how to code (especially HTML, CSS, JS)
+- ⚡ Fun fact: I have a dog named Josh
